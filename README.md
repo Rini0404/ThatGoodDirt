@@ -11,6 +11,7 @@ Making it a walk in the park from start to finish.
 
 <!-- /*internet media type */ -->
 ## Made with HTML/CSS/JS/Tailwind
+## https://rini0404.github.io/ThatGoodDirt/
 
 
 ## Project location
@@ -35,7 +36,8 @@ https://github.com/SarahAmel
 
 
 * Rene Ortega
-https://github.com/schaparro08
+https://github.com/Rini0404
+
 
 
 
